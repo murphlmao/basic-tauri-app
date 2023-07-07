@@ -1,2 +1,5 @@
-# basic-tauri-app
-simple little app made with tauri w/ nextjs
+dev: \
+- yarn tauri dev
+
+build / dist: \
+- yarn tauri build
