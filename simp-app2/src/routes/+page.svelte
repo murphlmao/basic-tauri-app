@@ -16,6 +16,10 @@
       <a href="https://svelte.dev" target="_blank">
         <img src="/svelte.svg" class="logo svelte" alt="Svelte Logo" />
       </a>
+
+      <a href="testroute" target="">
+        <img src="/svelte.svg" class="logo svelte" alt="Svelte Logo" />
+      </a>
     </div>
   
     <p>
